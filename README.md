@@ -38,10 +38,6 @@ A simple web-based text-to-speech application that converts written text into au
 - Speed adjustment for speech synthesis
 - Easy-to-use, responsive web interface
 
-## Demo
-
-Watch the demo on YouTube: [Text Reader Demo](your-youtube-link)
-
 ## Getting Started
 
 ### Prerequisites
